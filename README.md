@@ -53,8 +53,6 @@ installed in your PC
 compile.bat
 run demo1.exe
 
-</pre>
- 
 other reference: 
 .\dbf2sqlite
 .\HbSQLite3
@@ -63,6 +61,7 @@ other reference:
 .\Sqlite_2
 .\Sqlite_3
 .\SQLite3Facade
+</pre>
 <br><br>
  
  
