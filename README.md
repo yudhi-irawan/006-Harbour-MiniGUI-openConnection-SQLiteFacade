@@ -1,0 +1,1 @@
+# 006-Harbour-MiniGUI-openConnection-SQLiteFacade
